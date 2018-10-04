@@ -1,0 +1,6 @@
+Your tree is not empty
+Your nodes from smallest to largest are: 5 10 15 20 21 25 28 30 50 
+Your tree is balanced
+Your tree is a binary search tree
+You are not allowed to insert an already existing value into the tree
+Your test value is inside the tree

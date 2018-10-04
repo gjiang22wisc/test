@@ -1,0 +1,23 @@
+Testing priority queue class: NoPQ
+NoPQ FAIL: Unable to construct instance of NoPQ
+   0 TOTAL TESTS RUN
+Testing priority queue class: PQ01
+FAILED test05duplicatesAllowed: Constructed Priority Queue is empty
+FAILED test09isEmptyException: Priority Queue did not contain data.
+   8 PASSED
+   2 FAILED
+  10 TOTAL TESTS RUN
+Testing priority queue class: PQ02
+FAILED test00isEmpty: unexpectedly threw java.lang.NullPointerException
+FAILED test04insertRemoveOne: Exception occurred java.lang.NullPointerException
+FAILED test05duplicatesAllowed: Constructed Priority Queue is empty
+FAILED test06manyDataItems: unexpectedly threw java.lang.NullPointerException
+   6 PASSED
+   4 FAILED
+  10 TOTAL TESTS RUN
+Testing priority queue class: PQ03
+FAILED test05duplicatesAllowed: Constructed Priority Queue is empty
+FAILED test09isEmptyException: Priority Queue did not contain data.
+   8 PASSED
+   2 FAILED
+  10 TOTAL TESTS RUN
